@@ -1,2 +1,5 @@
 react-shp/node_modules/
-
+venv/
+shp/
+zip/
+geojson/
